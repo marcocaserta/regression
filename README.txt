@@ -11,7 +11,8 @@ follows:
     2. Multiple linear regression
     3. Interaction terms
     4. Quadratic terms
-    5. Model building
+    5. Categorical (Dummy) variables
+    6. Model building
 
 * LOGISTCS REGRESSION
 
