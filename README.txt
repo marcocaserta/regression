@@ -15,7 +15,7 @@ follows:
 
 * LOGISTCS REGRESSION
 
-    1. A simple classification model for the Wiscounsin Breast Cancer dataset
+    1. A simple classification model for the Wisconsin Breast Cancer dataset
 
 The regression output in these files has been produced using Google
 Spreadsheets and an add-on called "XLMiner". To install XLMiner, open a
