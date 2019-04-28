@@ -1,3 +1,9 @@
+Link to Lecture on Bayes and Probability
+========================================
+
+https://colab.research.google.com/drive/1aHD3lSi_GZkS_fIQP7bOGRwcw2zew6uV
+
+
 An Introduction to Linear (and Logistics) Regression
 ====================================================
 
